@@ -1,2 +1,2 @@
 # Motion-detection-using-Opencv
-A basic motion detection using Opencv method 
+Motion detection using OpenCV is a process of identifying movement in videos or image sequences. It involves capturing the video feed, finding the differences between consecutive frames to highlight changes, converting these differences into clear regions of motion, and potentially tracking objects across frames. OpenCV's tools aid in thresholding, contour detection, and object tracking, enabling the detection of motion and its visualization in real-time or pre-recorded footage.
